@@ -1,1 +1,1 @@
-Preprocessor
+gcc -E $CFILE -o c
