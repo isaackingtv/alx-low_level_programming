@@ -5,10 +5,10 @@
 *
 *Description - using the main funtion
 * This code print " Programminf is like building a multilingual puzzle"
-* Return 0
+* Return: 0
 */
-int main (void)
+int main(void)
 {
-	puts ("\"Programming is like building a mulzzle");
+	puts("\"Programming is like building a pulzzle");
 	return (0);
 }
