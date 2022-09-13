@@ -2,10 +2,10 @@
 
 /**
  * main - print string in the printf fumction
- *
+ *`
  * Description using the main fuction
  * this program prints "Prints size of computer"
- * Return: 0;
+ * Return: 0
  */
 int main(void)
 {
