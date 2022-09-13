@@ -1,7 +1,7 @@
 # include <stdio.h>
 
 /**
-* main - print the string using printf function
+* main -print the string using printf function
 *
 * Description : using the main function
 * This code prints "with proper grammar, but the outcome is a piece of art" 
